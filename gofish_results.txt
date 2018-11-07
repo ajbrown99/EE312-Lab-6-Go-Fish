@@ -1,0 +1,522 @@
+Joe's turn 
+Joe has : 5s 7s Kd 2s 6h 
+Joe's book has: Ad Ah 
+Jane has : 7c 5h Jc 
+Jane's book has: Qd Qh Ac As 
+Joe asks - Do you have a 6?
+Jane says - Go Fish
+Joe draws Jd
+
+
+Jane's turn 
+Joe has : 5s 7s Kd 2s 6h Jd 
+Joe's book has: Ad Ah 
+Jane has : 7c 5h Jc 
+Jane's book has: Qd Qh Ac As 
+Jane asks - Do you have a 7?
+Joe says - Yes. I have a 7.
+Jane books the 7.
+
+
+Jane's turn 
+Joe has : 5s Kd 2s 6h Jd 
+Joe's book has: Ad Ah 
+Jane has : 5h Jc 
+Jane's book has: Qd Qh Ac As 7c 7s 
+Jane asks - Do you have a 5?
+Joe says - Yes. I have a 5.
+Jane books the 5.
+
+
+Jane's turn 
+Joe has : Kd 2s 6h Jd 
+Joe's book has: Ad Ah 
+Jane has : Jc 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s 
+Jane asks - Do you have a J?
+Joe says - Yes. I have a J.
+Jane books the J.
+
+
+Jane's turn 
+Joe has : Kd 2s 6h 
+Joe's book has: Ad Ah 
+Jane has : 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 
+Jane draws 2c from the deck
+
+
+Joe's turn 
+Joe has : Kd 2s 6h 
+Joe's book has: Ad Ah 
+Jane has : 2c 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 
+Joe asks - Do you have a K?
+Jane says - Go Fish
+Joe draws 4s
+
+
+Jane's turn 
+Joe has : Kd 2s 6h 4s 
+Joe's book has: Ad Ah 
+Jane has : 2c 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 
+Jane asks - Do you have a 2?
+Joe says - Yes. I have a 2.
+Jane books the 2.
+
+
+Jane's turn 
+Joe has : Kd 6h 4s 
+Joe's book has: Ad Ah 
+Jane has : 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane draws 5d from the deck
+
+
+Joe's turn 
+Joe has : Kd 6h 4s 
+Joe's book has: Ad Ah 
+Jane has : 5d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a K?
+Jane says - Go Fish
+Joe draws Jh
+
+
+Jane's turn 
+Joe has : Kd 6h 4s Jh 
+Joe's book has: Ad Ah 
+Jane has : 5d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane asks - Do you have a 5?
+Joe says - Go Fish
+Jane draws 10h
+
+
+Joe's turn 
+Joe has : Kd 6h 4s Jh 
+Joe's book has: Ad Ah 
+Jane has : 5d 10h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a J?
+Jane says - Go Fish
+Joe draws 4d
+
+
+Jane's turn 
+Joe has : Kd 6h Jh 
+Joe's book has: Ad Ah 4s 4d 
+Jane has : 5d 10h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane asks - Do you have a 5?
+Joe says - Go Fish
+Jane draws 7h
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 
+Joe's book has: Ad Ah 4s 4d 
+Jane has : 5d 10h 7h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a K?
+Jane says - Go Fish
+Joe draws 9s
+
+
+Jane's turn 
+Joe has : Kd 6h Jh 9s 
+Joe's book has: Ad Ah 4s 4d 
+Jane has : 5d 10h 7h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane asks - Do you have a 7?
+Joe says - Go Fish
+Jane draws 9h
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 9s 
+Joe's book has: Ad Ah 4s 4d 
+Jane has : 5d 10h 7h 9h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a K?
+Jane says - Go Fish
+Joe draws 2d
+
+
+Jane's turn 
+Joe has : Kd 6h Jh 9s 2d 
+Joe's book has: Ad Ah 4s 4d 
+Jane has : 5d 10h 7h 9h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane asks - Do you have a 10?
+Joe says - Go Fish
+Jane draws Ks
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 9s 2d 
+Joe's book has: Ad Ah 4s 4d 
+Jane has : 5d 10h 7h 9h Ks 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a 6?
+Jane says - Go Fish
+Joe draws 7d
+
+
+Jane's turn 
+Joe has : Kd 6h Jh 9s 2d 7d 
+Joe's book has: Ad Ah 4s 4d 
+Jane has : 5d 10h 7h 9h Ks 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane asks - Do you have a 5?
+Joe says - Go Fish
+Jane draws 4h
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 9s 2d 7d 
+Joe's book has: Ad Ah 4s 4d 
+Jane has : 5d 10h 7h 9h Ks 4h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a 7?
+Jane says - Yes. I have a 7.
+Joe books the 7.
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 9s 2d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 
+Jane has : 5d 10h 9h Ks 4h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a 9?
+Jane says - Yes. I have a 9.
+Joe books the 9.
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 2d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 
+Jane has : 5d 10h Ks 4h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a J?
+Jane says - Go Fish
+Joe draws 10c
+
+
+Jane's turn 
+Joe has : Kd 6h Jh 2d 10c 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 
+Jane has : 5d 10h Ks 4h 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane asks - Do you have a 4?
+Joe says - Go Fish
+Jane draws 3s
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 2d 10c 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 
+Jane has : 5d 10h Ks 4h 3s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a 6?
+Jane says - Go Fish
+Joe draws 5c
+
+
+Jane's turn 
+Joe has : Kd 6h Jh 2d 10c 5c 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 
+Jane has : 5d 10h Ks 4h 3s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane asks - Do you have a 3?
+Joe says - Go Fish
+Jane draws 8c
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 2d 10c 5c 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 
+Jane has : 5d 10h Ks 4h 3s 8c 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Joe asks - Do you have a 2?
+Jane says - Go Fish
+Joe draws 9d
+
+
+Jane's turn 
+Joe has : Kd 6h Jh 2d 10c 5c 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 
+Jane has : 5d 10h Ks 4h 3s 8c 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 
+Jane asks - Do you have a 4?
+Joe says - Go Fish
+Jane draws 8h
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 2d 10c 5c 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 
+Jane has : 5d 10h Ks 4h 3s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h 
+Joe asks - Do you have a 5?
+Jane says - Yes. I have a 5.
+Joe books the 5.
+
+
+Joe's turn 
+Joe has : Kd 6h Jh 2d 10c 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 
+Jane has : 10h Ks 4h 3s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h 
+Joe asks - Do you have a 9?
+Jane says - Go Fish
+Joe draws 6s
+
+
+Jane's turn 
+Joe has : Kd Jh 2d 10c 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 
+Jane has : 10h Ks 4h 3s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h 
+Jane asks - Do you have a K?
+Joe says - Yes. I have a K.
+Jane books the K.
+
+
+Jane's turn 
+Joe has : Jh 2d 10c 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 
+Jane has : 10h 4h 3s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 
+Jane asks - Do you have a 10?
+Joe says - Yes. I have a 10.
+Jane books the 10.
+
+
+Jane's turn 
+Joe has : Jh 2d 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 
+Jane has : 4h 3s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 
+Jane asks - Do you have a 3?
+Joe says - Go Fish
+Jane draws 9c
+
+
+Joe's turn 
+Joe has : Jh 2d 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 
+Jane has : 4h 3s 9c 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 
+Joe asks - Do you have a 2?
+Jane says - Go Fish
+Joe draws 2h
+
+
+Jane's turn 
+Joe has : Jh 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 
+Jane has : 4h 3s 9c 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 
+Jane asks - Do you have a 4?
+Joe says - Go Fish
+Jane draws 10s
+
+
+Joe's turn 
+Joe has : Jh 9d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 
+Jane has : 4h 3s 9c 10s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 
+Joe asks - Do you have a 9?
+Jane says - Yes. I have a 9.
+Joe books the 9.
+
+
+Joe's turn 
+Joe has : Jh 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c 
+Jane has : 4h 3s 10s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 
+Joe asks - Do you have a J?
+Jane says - Go Fish
+Joe draws 6c
+
+
+Jane's turn 
+Joe has : Jh 6c 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c 
+Jane has : 4h 3s 10s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 
+Jane asks - Do you have a 4?
+Joe says - Go Fish
+Jane draws 3c
+
+
+Joe's turn 
+Joe has : Jh 6c 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c 
+Jane has : 4h 10s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Joe asks - Do you have a J?
+Jane says - Go Fish
+Joe draws Js
+
+
+Jane's turn 
+Joe has : 6c 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 
+Jane has : 4h 10s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Jane asks - Do you have a 4?
+Joe says - Go Fish
+Jane draws 8s
+
+
+Joe's turn 
+Joe has : 6c 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 
+Jane has : 4h 10s 8s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Joe asks - Do you have a 6?
+Jane says - Go Fish
+Joe draws Qs
+
+
+Jane's turn 
+Joe has : 6c Qs 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 
+Jane has : 4h 10s 8s 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Jane asks - Do you have a 4?
+Joe says - Go Fish
+Jane draws 3d
+
+
+Joe's turn 
+Joe has : 6c Qs 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 
+Jane has : 4h 10s 8s 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Joe asks - Do you have a 6?
+Jane says - Go Fish
+Joe draws 6d
+
+
+Jane's turn 
+Joe has : Qs 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d 
+Jane has : 4h 10s 8s 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Jane asks - Do you have a 3?
+Joe says - Go Fish
+Jane draws Qc
+
+
+Joe's turn 
+Joe has : Qs 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d 
+Jane has : 4h 10s 8s 3d Qc 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Joe asks - Do you have a Q?
+Jane says - Yes. I have a Q.
+Joe books the Q.
+
+
+Joe's turn 
+Joe has : 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc 
+Jane has : 4h 10s 8s 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Joe draws Kc from the deck
+
+
+Jane's turn 
+Joe has : Kc 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc 
+Jane has : 4h 10s 8s 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 
+Jane asks - Do you have a 4?
+Joe says - Go Fish
+Jane draws 10d
+
+
+Joe's turn 
+Joe has : Kc 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc 
+Jane has : 4h 8s 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 10s 10d 
+Joe asks - Do you have a K?
+Jane says - Go Fish
+Joe draws 8d
+
+
+Jane's turn 
+Joe has : Kc 8d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc 
+Jane has : 4h 8s 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 10s 10d 
+Jane asks - Do you have a 3?
+Joe says - Go Fish
+Jane draws Kh
+
+
+Joe's turn 
+Joe has : Kc 8d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc 
+Jane has : 4h 8s 3d Kh 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 10s 10d 
+Joe asks - Do you have a K?
+Jane says - Yes. I have a K.
+Joe books the K.
+
+
+Joe's turn 
+Joe has : 8d 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc Kc Kh 
+Jane has : 4h 8s 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 10s 10d 
+Joe asks - Do you have a 8?
+Jane says - Yes. I have a 8.
+Joe books the 8.
+
+
+Joe's turn 
+Joe has : 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc Kc Kh 8d 8s 
+Jane has : 4h 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 10s 10d 
+Joe draws 3h from the deck
+
+
+Jane's turn 
+Joe has : 3h 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc Kc Kh 8d 8s 
+Jane has : 4h 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 10s 10d 
+Jane asks - Do you have a 4?
+Joe says - Go Fish
+Jane draws 4c
+
+
+Joe's turn 
+Joe has : 3h 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc Kc Kh 8d 8s 
+Jane has : 3d 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 10s 10d 4h 4c 
+Joe asks - Do you have a 3?
+Jane says - Yes. I have a 3.
+Joe books the 3.
+
+
+Joe's turn 
+Joe has : 
+Joe's book has: Ad Ah 4s 4d 7d 7h 9s 9h 5c 5d 6h 6s 2d 2h 9d 9c Jh Js 6c 6d Qs Qc Kc Kh 8d 8s 3h 3d 
+Jane has : 
+Jane's book has: Qd Qh Ac As 7c 7s 5h 5s Jc Jd 2c 2s 8c 8h Ks Kd 10h 10c 3s 3c 10s 10d 4h 4c 
+There are no more cards in the deck
+
+
+
+Joe is the winner.
