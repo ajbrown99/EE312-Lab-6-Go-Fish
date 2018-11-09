@@ -30,15 +30,16 @@ int main( )
 
         dealHand(d, p1, numCards);
         dealHand(d, p2, numCards);
+	
+	myFile << "Before game starts: " << endl; //showing what cards each player has before game starts
+        myFile << p1.getName() <<" has : " << p1.showHand() << endl;
+        myFile << p2.getName() <<" has : " << p2.showHand() << endl << endl;
 
-        //cout << p1.getName() <<" has : " << p1.showHand() << endl;
-        //cout << p2.getName() <<" has : " << p2.showHand() << endl;
-
-        //gamePlay
+        //gamePlay:
         bool gameOver = false;
         bool tieGame = false;
-        Player *currentPlayer = &p1; //pointer to currentPlayer
-        Player *otherPlayer = &p2; //pointer to otherPlayer
+        Player *currentPlayer = &p1; //pointer to player whose turn it currently is. this will switch every time the player turn switched
+        Player *otherPlayer = &p2; //pointer to player whose turn it currently isn't
         Player *winner;
 
 
@@ -55,7 +56,9 @@ int main( )
                     tieGame = true;
                 }
 
-            } else {
+            } 
+            //if game isn't over:
+            else {
 
                 //check to see if any pairs
                 Card book1;
@@ -75,18 +78,13 @@ int main( )
                     // cout << (*currentPlayer).getName() <<" has : " << (*currentPlayer).showHand() << endl;
                     (*otherPlayer).bookCards(book1, book2);
                 }
-
+                
+                //prints out current state of game for each turn:
                 myFile << (*currentPlayer).getName() << "'s turn " << endl;
                 myFile << p1.getName() << " has : " << p1.showHand() << endl;
                 myFile << p1.getName() << "'s book has: " << p1.showBooks() << endl;
                 myFile << p2.getName() << " has : " << p2.showHand() << endl;
                 myFile << p2.getName() << "'s book has: " << p2.showBooks() << endl;
-
-
-
-
-
-
 
                 //if currentHand is empty, take card from deck and pass turn to next player
                 if ((*currentPlayer).getHandSize() == 0 && d.size() != 0) {
@@ -102,8 +100,10 @@ int main( )
                         otherPlayer = &p2;
                     }
                 } else if ((*currentPlayer).getHandSize() == 0 && d.size() == 0) {
-                    myFile << "There are no more cards in the deck" << endl << endl;
-                } else {
+                    myFile << "There are no more cards in the deck, and no more cards in the players' hands" << endl << endl;
+                }
+                //if currentHand is not empty:
+                else {
                     Card currentCard = (*currentPlayer).chooseCardFromHand();
                     myFile << (*currentPlayer).getName() << " asks - Do you have a "
                          << currentCard.rankString(currentCard.getRank()) << "?" << endl;
@@ -151,7 +151,8 @@ int main( )
 
         }
 
-        if (tieGame == true) {
+        myFile << "Game Over!" << endl;
+	if (tieGame == true) {
             myFile << "Tie Game" << endl;
         } else {
             myFile << (*winner).getName() << " is the winner." << endl;
@@ -164,6 +165,8 @@ int main( )
 }
 
 
+//pre-condition: input parameters = Deck d, Player p, and number of cards to deal to player
+//post-condition: numCards number of cards from Deck d are added to hand of Player p
 void dealHand(Deck &d, Player &p, int numCards)
 {
     for (int i=0; i < numCards; i++)

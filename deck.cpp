@@ -4,6 +4,7 @@
 #include "card.h"
 #include "deck.h"
 
+//default deck constructor
 Deck::Deck()
 {
     myIndex = 0;
@@ -24,27 +25,10 @@ Deck::Deck()
 
     }
 
-    /*
-
-    for(int i = 1; i < 14; i++){
-
-        myCards[i-1] = Card(i,Card::spades);
-    }
-    for(int i = 14; i < 28; i++){
-
-        myCards[i-1] = Card(i % 14,Card::hearts);
-    }
-    for(int i = 28; i < 42; i++){
-
-        myCards[i-1] = Card(i % 14,Card::diamonds);
-    }
-    for(int i = 42; i < 53; i++){
-
-        myCards[i-1] = Card(i % 14,Card::clubs);
-    }
-     */
 }
 
+//pre-condition: no parameters passed in, myCards array is unshuffled
+//post-condition: each card in myCards array is likely in a different position than it was before
 void Deck::shuffle()
 {
     int totalCards = size();
@@ -76,6 +60,8 @@ void Deck::shuffle()
 
 }
 
+//pre-condition: no input parameter
+//post-condition: card at myIndex index of myCards is returned, myIndex incremented
 Card Deck::dealCard()
 {
     if(myIndex < 52){
@@ -88,6 +74,8 @@ Card Deck::dealCard()
 
 }
 
+//pre-condition: no input parameter
+//post-condition: returns number of cards left in deck
 int Deck::size() const
 {
     return SIZE - myIndex;

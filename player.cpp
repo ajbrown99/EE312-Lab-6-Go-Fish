@@ -12,15 +12,21 @@
 
 using namespace std;
 
+//default player constructor
 Player::Player ()
 {
     myName = "";
 }
 
-void Player::addCard(Card c) //adds a card to the hand
+//pre-condition: input parameter = new Card c to add to player's hand
+//post-condition: Card c added to player's hand (myHand)
+void Player::addCard(Card c)
 {
     myHand.push_back(c);
 }
+
+//pre-condition: input parameters = two Cards with same rank
+//post-condition: Cards c1 and c2 added to book (myBook)
 void Player::bookCards(Card c1, Card c2)
 {
     myBook.push_back(c1);
@@ -32,6 +38,8 @@ void Player::bookCards(Card c1, Card c2)
 //this function will check a players hand for a pair.
 //If a pair is found, it returns true and populates the two variables with the cards tha make the pair.
 
+//pre-condition: input parameters = pointers to two cards
+//post-condition: returns true if myHand contains a pair. pointers (the input parameters) now point to the two cards that are a pair 
 bool Player::checkHandForBook(Card &c1, Card &c2)
 {
     vector<Card>::iterator iter;
@@ -56,6 +64,8 @@ bool Player::checkHandForBook(Card &c1, Card &c2)
 //OPTIONAL
 // comment out if you decide to not use it
 //Does the player have a card with the same rank as c in her hand?
+//pre-condition: Card c 
+//post-condition: returns true if myHand contains Card of same rank as Card c
 bool Player::rankInHand(Card c) const
 {
     vector<Card>::const_iterator iter;
@@ -69,6 +79,7 @@ bool Player::rankInHand(Card c) const
 
 //uses some strategy to choose one card from the player's
 //hand so they can say "Do you have a 4?"
+//post-condition: returns random Card from myHand
 Card Player::chooseCardFromHand() const
 {
     int size = getHandSize ();
@@ -85,6 +96,8 @@ Card Player::chooseCardFromHand() const
 }
 
 //Does the player have the card c in her hand?
+//pre-condition: Card c
+//post-condition: returns true if myHand contains card of same rank as Card c
 bool Player::cardInHand(Card c) const
 {
     vector<Card>::const_iterator iter;
@@ -99,6 +112,8 @@ bool Player::cardInHand(Card c) const
 }
 
 //Remove the card c from the hand and return it to the caller
+//pre-condition: input parameter = Card c
+//post-condition: first card in myHand that has same rank as Card c is removed from myHand and is returned
 Card Player::removeCardFromHand(Card c)
 {
     vector<Card>::iterator iter;
@@ -112,6 +127,7 @@ Card Player::removeCardFromHand(Card c)
     }
 }
 
+//post-condition: string representing all cards in myHand is returned
 string Player::showHand() const
 {
     string totalHand = "";
@@ -123,6 +139,8 @@ string Player::showHand() const
 
     return totalHand;
 }
+
+//post-condition: string representing all cards in myBook is returned
 string Player::showBooks() const
 {
     string totalBook = "";
@@ -135,6 +153,7 @@ string Player::showBooks() const
     return totalBook;
 }
 
+//post-condition: number of cards in myHand is returned
 int Player::getHandSize() const
 {
     int size = 0;
@@ -146,6 +165,7 @@ int Player::getHandSize() const
     return size;
 }
 
+//post-condition: number of cards in myBook is returned
 int Player::getBookSize() const
 {
     int size = 0;
